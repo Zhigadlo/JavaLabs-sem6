@@ -1,6 +1,8 @@
+package DocSystem;
+
 import java.util.ArrayList;
 
-abstract class File {
+public abstract class File {
     private String content;
     public static ArrayList<File> Files = new ArrayList<>();
     public File(){

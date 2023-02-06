@@ -1,3 +1,5 @@
+import DocSystem.*;
+
 public class Main {
     public static void main(String[] args) {
         Check c = new Check(34);

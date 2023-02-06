@@ -1,3 +1,5 @@
+package DocSystem;
+
 public class Check extends File{
     private int sum;
 

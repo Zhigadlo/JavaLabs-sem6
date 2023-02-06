@@ -1,3 +1,5 @@
+package DocSystem;
+
 public class Document extends  File {
     private String title;
     private String author;

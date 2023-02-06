@@ -1,3 +1,5 @@
+package DocSystem;
+
 public class Receipt extends File{
     //content
 
