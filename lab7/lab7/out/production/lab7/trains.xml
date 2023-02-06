@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trains>
+    <train>
+        <number>32</number>
+        <startStation>Kalinkovichi</startStation>
+        <endStation>Gomel</endStation>
+        <cost>3</cost>
+        <date>2023-02-23</date>
+    </train>
+    <train>
+        <number>43234</number>
+        <startStation>Kalinkovichi</startStation>
+        <endStation>Minsk</endStation>
+        <cost>12</cost>
+        <date>2023-10-01</date>
+    </train>
+    <train>
+        <number>1234</number>
+        <startStation>Minsk</startStation>
+        <endStation>Gomel</endStation>
+        <cost>12</cost>
+        <date>2023-03-11</date>
+    </train>
+    <train>
+        <number>513</number>
+        <startStation>Gomel</startStation>
+        <endStation>Rechica</endStation>
+        <cost>2</cost>
+        <date>2023-10-28</date>
+    </train>
+    <train>
+        <number>803</number>
+        <startStation>Rechica</startStation>
+        <endStation>Minsk</endStation>
+        <cost>15</cost>
+        <date>2023-12-13</date>
+    </train>
+</trains>
